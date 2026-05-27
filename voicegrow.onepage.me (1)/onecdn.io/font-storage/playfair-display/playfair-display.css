@@ -1,0 +1,144 @@
+@font-face {
+  font-display: swap;
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 400;
+  
+  src: local(''),
+    url('https://onecdn.io/font-storage/playfair-display/playfair-display-regular.woff2') format('woff2'),
+       url('https://onecdn.io/font-storage/playfair-display/playfair-display-regular.woff') format('woff'),
+       url('https://onecdn.io/font-storage/playfair-display/playfair-display-regular.ttf') format('truetype'),
+       url('https://onecdn.io/font-storage/playfair-display/playfair-display-regular.svg#PlayfairDisplay') format('svg')
+}
+@font-face {
+  font-display: swap;
+  font-family: 'Playfair Display';
+  font-style: italic;
+  font-weight: 400;
+  
+  src: local(''),
+    url('https://onecdn.io/font-storage/playfair-display/playfair-display-italic.woff2') format('woff2'),
+       url('https://onecdn.io/font-storage/playfair-display/playfair-display-italic.woff') format('woff'),
+       url('https://onecdn.io/font-storage/playfair-display/playfair-display-italic.ttf') format('truetype'),
+       url('https://onecdn.io/font-storage/playfair-display/playfair-display-italic.svg#PlayfairDisplay') format('svg')
+}
+@font-face {
+  font-display: swap;
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 500;
+  
+  src: local(''),
+    url('https://onecdn.io/font-storage/playfair-display/playfair-display-500.woff2') format('woff2'),
+       url('https://onecdn.io/font-storage/playfair-display/playfair-display-500.woff') format('woff'),
+       url('https://onecdn.io/font-storage/playfair-display/playfair-display-500.ttf') format('truetype'),
+       url('https://onecdn.io/font-storage/playfair-display/playfair-display-500.svg#PlayfairDisplay') format('svg')
+}
+@font-face {
+  font-display: swap;
+  font-family: 'Playfair Display';
+  font-style: italic;
+  font-weight: 500;
+  
+  src: local(''),
+    url('https://onecdn.io/font-storage/playfair-display/playfair-display-500italic.woff2') format('woff2'),
+       url('https://onecdn.io/font-storage/playfair-display/playfair-display-500italic.woff') format('woff'),
+       url('https://onecdn.io/font-storage/playfair-display/playfair-display-500italic.ttf') format('truetype'),
+       url('https://onecdn.io/font-storage/playfair-display/playfair-display-500italic.svg#PlayfairDisplay') format('svg')
+}
+@font-face {
+  font-display: swap;
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 600;
+  
+  src: local(''),
+    url('https://onecdn.io/font-storage/playfair-display/playfair-display-600.woff2') format('woff2'),
+       url('https://onecdn.io/font-storage/playfair-display/playfair-display-600.woff') format('woff'),
+       url('https://onecdn.io/font-storage/playfair-display/playfair-display-600.ttf') format('truetype'),
+       url('https://onecdn.io/font-storage/playfair-display/playfair-display-600.svg#PlayfairDisplay') format('svg')
+}
+@font-face {
+  font-display: swap;
+  font-family: 'Playfair Display';
+  font-style: italic;
+  font-weight: 600;
+  
+  src: local(''),
+    url('https://onecdn.io/font-storage/playfair-display/playfair-display-600italic.woff2') format('woff2'),
+       url('https://onecdn.io/font-storage/playfair-display/playfair-display-600italic.woff') format('woff'),
+       url('https://onecdn.io/font-storage/playfair-display/playfair-display-600italic.ttf') format('truetype'),
+       url('https://onecdn.io/font-storage/playfair-display/playfair-display-600italic.svg#PlayfairDisplay') format('svg')
+}
+@font-face {
+  font-display: swap;
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 700;
+  
+  src: local(''),
+    url('https://onecdn.io/font-storage/playfair-display/playfair-display-700.woff2') format('woff2'),
+       url('https://onecdn.io/font-storage/playfair-display/playfair-display-700.woff') format('woff'),
+       url('https://onecdn.io/font-storage/playfair-display/playfair-display-700.ttf') format('truetype'),
+       url('https://onecdn.io/font-storage/playfair-display/playfair-display-700.svg#PlayfairDisplay') format('svg')
+}
+@font-face {
+  font-display: swap;
+  font-family: 'Playfair Display';
+  font-style: italic;
+  font-weight: 700;
+  
+  src: local(''),
+    url('https://onecdn.io/font-storage/playfair-display/playfair-display-700italic.woff2') format('woff2'),
+       url('https://onecdn.io/font-storage/playfair-display/playfair-display-700italic.woff') format('woff'),
+       url('https://onecdn.io/font-storage/playfair-display/playfair-display-700italic.ttf') format('truetype'),
+       url('https://onecdn.io/font-storage/playfair-display/playfair-display-700italic.svg#PlayfairDisplay') format('svg')
+}
+@font-face {
+  font-display: swap;
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 800;
+  
+  src: local(''),
+    url('https://onecdn.io/font-storage/playfair-display/playfair-display-800.woff2') format('woff2'),
+       url('https://onecdn.io/font-storage/playfair-display/playfair-display-800.woff') format('woff'),
+       url('https://onecdn.io/font-storage/playfair-display/playfair-display-800.ttf') format('truetype'),
+       url('https://onecdn.io/font-storage/playfair-display/playfair-display-800.svg#PlayfairDisplay') format('svg')
+}
+@font-face {
+  font-display: swap;
+  font-family: 'Playfair Display';
+  font-style: italic;
+  font-weight: 800;
+  
+  src: local(''),
+    url('https://onecdn.io/font-storage/playfair-display/playfair-display-800italic.woff2') format('woff2'),
+       url('https://onecdn.io/font-storage/playfair-display/playfair-display-800italic.woff') format('woff'),
+       url('https://onecdn.io/font-storage/playfair-display/playfair-display-800italic.ttf') format('truetype'),
+       url('https://onecdn.io/font-storage/playfair-display/playfair-display-800italic.svg#PlayfairDisplay') format('svg')
+}
+@font-face {
+  font-display: swap;
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 900;
+  
+  src: local(''),
+    url('https://onecdn.io/font-storage/playfair-display/playfair-display-900.woff2') format('woff2'),
+       url('https://onecdn.io/font-storage/playfair-display/playfair-display-900.woff') format('woff'),
+       url('https://onecdn.io/font-storage/playfair-display/playfair-display-900.ttf') format('truetype'),
+       url('https://onecdn.io/font-storage/playfair-display/playfair-display-900.svg#PlayfairDisplay') format('svg')
+}
+@font-face {
+  font-display: swap;
+  font-family: 'Playfair Display';
+  font-style: italic;
+  font-weight: 900;
+  
+  src: local(''),
+    url('https://onecdn.io/font-storage/playfair-display/playfair-display-900italic.woff2') format('woff2'),
+       url('https://onecdn.io/font-storage/playfair-display/playfair-display-900italic.woff') format('woff'),
+       url('https://onecdn.io/font-storage/playfair-display/playfair-display-900italic.ttf') format('truetype'),
+       url('https://onecdn.io/font-storage/playfair-display/playfair-display-900italic.svg#PlayfairDisplay') format('svg')
+}

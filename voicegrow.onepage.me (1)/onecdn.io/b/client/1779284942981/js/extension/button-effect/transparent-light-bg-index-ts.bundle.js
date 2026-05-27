@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[95],{205:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0}),t.default=void 0;var a=n(62);n(2310);t.default=()=>({[(0,a.makeDataPrefix)("transparent-button-effect")]:"light-bg"})},2310:function(e,t,n){}}]);

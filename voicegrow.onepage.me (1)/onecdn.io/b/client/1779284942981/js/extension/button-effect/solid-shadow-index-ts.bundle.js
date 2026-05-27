@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[81],{192:function(e,o,t){"use strict";Object.defineProperty(o,"__esModule",{value:!0}),o.default=void 0;var a=t(62);t(2298);o.default=()=>({[(0,a.makeDataPrefix)("solid-button-effect")]:"shadow"})},2298:function(e,o,t){}}]);
